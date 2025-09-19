@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Keyboard&display=swap');
+ 
+
+p {
+    background-color: blueviolet;
+}
+
+.parrafo2{
+    background-color: chocolate;
+}
+
+#diferente {
+    background-color: green;
+}
+
+
+h1{
+    font-family: "Libertinus Keyboard", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+}
+body {
+    margin: 0;
+    background-image: url(img/istockphoto-911910816-612x612.jpg) ;
+    background-size: cover;
+}
+nav li {
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+}
+
+nav ul {
+    background-color: khaki;
+    margin: 0;
+    height: 60px;
+}
+
+nav li a {
+    background-color:aqua;
+    text-decoration: none;
+    padding: 20px 20px;
+    line-height: 50px;
+    border: solid black 5px;
+
+}
+
+
+footer {
+    background-color: cornflowerblue;
+    border-top: none;
+    border-bottom: none;
+}
+
+.col1{
+    display: inline-block;
+    width: 32%;
+    font-size: 10px;
+    
+}
+
+footer h1 {
+    
+        margin-top: 0;
+        background-color: cornflowerblue;
+        margin-bottom: 0;
+        font-family:Verdana, Geneva, Tahoma, sans-serif ;
+       padding-top: 10px;
+       border: none;
+   
+    height: 100px;
+    margin-bottom: 0px;
+}
+.col1 li {
+    margin-top: 0px;
+    list-style: none;
+    font-size: 15px;
+}
+

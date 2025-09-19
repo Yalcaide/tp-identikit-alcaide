@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Keyboard&display=swap');
+body{
+    background-image: url(/img/realistic-tv-screen-vector.jpg);
+    background-size: cover;
+    margin: 0;
+}
+
+#arriba {
+    font-size: 35px; 
+    color:black; 
+    font-family: "Libertinus Keyboard", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.triviatituloindex {
+    font-size: 60px; 
+    color: rgb(170, 40, 40); 
+    font-family: "Acme", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+   
+}
+
+.triviatitulo {
+    font-size: 60px; 
+    color: rgb(170, 40, 40); 
+    font-family: "Acme", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    margin-top: 250px;
+}
+
+.triviatexto {
+    font-size: 35px; 
+    color: rgb(170, 40, 40); 
+    font-family: "Salsa", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.triviaimg {
+    width: 300px;
+    margin-bottom: 30px;
+    border: solid black 5px;
+}
+
+.triviaboton {
+    font-size: 35px;
+    background-color: goldenrod; 
+    border: solid black 5px; 
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px
+    
+}
+
+.nivel1 {
+    width: 100px;
+    background-color: antiquewhite;
+}
+
+.nivel2_3 {
+    width: 200px;
+    background-color: antiquewhite;
+}
+
+ nav li {
+        
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+    }
+    nav li a {
+    background-color:aqua;
+    text-decoration: none;
+    padding: 20px 20px;
+    line-height: 50px;
+    border: solid black 5px;
+    
+
+}
+nav ul {
+    background-color: khaki;
+    margin: 0;
+    height: 60px;
+}
+
+.lupa {
+    height: 50px;
+    float: left;
+}
+
+footer {
+    background-color: cornflowerblue;
+    border-top: none;
+    border-bottom: none;
+}
+
+.col1{
+    display: inline-block;
+    width: 32%;
+    font-size: 10px;
+    
+}
+
+footer h1 {
+    
+        margin-top: 0;
+        background-color: cornflowerblue;
+        margin-bottom: 0;
+        font-family:Verdana, Geneva, Tahoma, sans-serif ;
+       padding-top: 10px;
+       border: none;
+   
+    height: 100px;
+    margin-bottom: 0px;
+}
+.col1 li {
+    margin-top: 0px;
+    list-style: none;
+    font-size: 15px;
+}
