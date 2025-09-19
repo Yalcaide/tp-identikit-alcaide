@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Libertinus+Keyboard&display=swap');
 body{
-    background-image: url(/img/realistic-tv-screen-vector.jpg);
+    background-image: url(../img/realistic-tv-screen-vector.jpg);
     background-size: cover;
     margin: 0;
 }
